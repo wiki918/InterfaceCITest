@@ -1,0 +1,2 @@
+2019-02-12 09:25:20,643 - root - ERROR - discover() got an unexpected keyword argument 'case_names_weights'
+2019-02-12 09:25:20,643 - root - INFO - *********TEST END*********

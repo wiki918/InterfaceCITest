@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a810384-6e61-40d9-a647-aff37ad76a68" name="默认的" comment="" />
+    <ignored path="python-oop.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/python-oop$common__1_.coverage" NAME="common (1) Coverage Results" MODIFIED="1543489595831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comm" />
+    <SUITE FILE_PATH="coverage/python-oop$oop2.coverage" NAME="oop2 Coverage Results" MODIFIED="1541560077025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python-oop$8.coverage" NAME="8常用模块 Coverage Results" MODIFIED="1541668553484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python-oop$01__1_.coverage" NAME="01 (1) Coverage Results" MODIFIED="1542189471375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Log" />
+    <SUITE FILE_PATH="coverage/python_oop$Unittests_for_testLogin_TestLogin.coverage" NAME="Unittests for testLogin.TestLogin Coverage Results" MODIFIED="1544063855829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/python-oop$common.coverage" NAME="common Coverage Results" MODIFIED="1542936822440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/python-oop$Mixin.coverage" NAME="Mixin Coverage Results" MODIFIED="1541569325800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python-oop$configHttp.coverage" NAME="configHttp Coverage Results" MODIFIED="1542880660406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/python_oop$Unittests_for_testLogin_Login_testSign.coverage" NAME="Unittests for testLogin.Login.testSign Coverage Results" MODIFIED="1543985361679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/python-oop$Unittest_Login_testLogin.coverage" NAME="Unittest Login.testLogin Coverage Results" MODIFIED="1543892512878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/python_oop$common.coverage" NAME="common Coverage Results" MODIFIED="1549935570397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comm" />
+    <SUITE FILE_PATH="coverage/python-oop$12email.coverage" NAME="12email Coverage Results" MODIFIED="1542851081386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_oop$Unittests_for_testLogin_TestLogin_testHello.coverage" NAME="Unittests for testLogin.TestLogin.testHello Coverage Results" MODIFIED="1543989448393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/python-oop$9.coverage" NAME="9函数式编程 Coverage Results" MODIFIED="1541991705633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python-oop$businessCommon__1_.coverage" NAME="businessCommon (1) Coverage Results" MODIFIED="1543892414042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comm" />
+    <SUITE FILE_PATH="coverage/python_oop$Unittests_in_testgetLcjDetails_py.coverage" NAME="Unittests in testgetLcjDetails.py Coverage Results" MODIFIED="1544078114261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/python-oop$configEmail.coverage" NAME="configEmail Coverage Results" MODIFIED="1543823705089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comm" />
+    <SUITE FILE_PATH="coverage/python_oop$Unittests_for_testLogin_Login_testLogin.coverage" NAME="Unittests for testLogin.Login.testLogin Coverage Results" MODIFIED="1543985013060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/python-oop$14http.coverage" NAME="14http Coverage Results" MODIFIED="1543561771040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python-oop$businessCommon.coverage" NAME="businessCommon Coverage Results" MODIFIED="1543977493164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python-oop$7.coverage" NAME="7异常处理 Coverage Results" MODIFIED="1541660077056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python-oop$Unittests_in_Login.coverage" NAME="Unittests in Login Coverage Results" MODIFIED="1543892917407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/python_oop$runAll.coverage" NAME="runAll Coverage Results" MODIFIED="1549954347796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python-oop$01.coverage" NAME="01 Coverage Results" MODIFIED="1542015518907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/调试" />
+    <SUITE FILE_PATH="coverage/python_oop$Unittests_for_testLogin_TestLogin_testSign.coverage" NAME="Unittests for testLogin.TestLogin.testSign Coverage Results" MODIFIED="1543988949016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/python_oop$businessCommon.coverage" NAME="businessCommon Coverage Results" MODIFIED="1544078057459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comm" />
+    <SUITE FILE_PATH="coverage/python_oop$Unittests_for_testLogin_Login.coverage" NAME="Unittests for testLogin.Login Coverage Results" MODIFIED="1543986386068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/python-oop$01__2_.coverage" NAME="01 (2) Coverage Results" MODIFIED="1542705223336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程" />
+    <SUITE FILE_PATH="coverage/python-oop$configHttp__1_.coverage" NAME="configHttp (1) Coverage Results" MODIFIED="1543315468410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comm" />
+    <SUITE FILE_PATH="coverage/python-oop$oop1.coverage" NAME="oop1 Coverage Results" MODIFIED="1541558257999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python-oop$5.coverage" NAME="5类和对象的三种方法 Coverage Results" MODIFIED="1541578909144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python-oop$readConfig.coverage" NAME="readConfig Coverage Results" MODIFIED="1542878477121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python-oop$10_.coverage" NAME="10.文件 Coverage Results" MODIFIED="1542186258858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python-oop$11xls.coverage" NAME="11xls Coverage Results" MODIFIED="1542874967252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python-oop$4property.coverage" NAME="4property Coverage Results" MODIFIED="1541574410164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_oop$Unittests_in_testLogin_py.coverage" NAME="Unittests in testLogin.py Coverage Results" MODIFIED="1549954387559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="python-oop" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="24" column="16" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/runAll.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1615">
+              <caret line="90" column="18" selection-start-line="90" selection-start-column="18" selection-end-line="90" selection-end-column="18" />
+              <folding>
+                <element signature="e#1#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/comm/businessCommon.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1121">
+              <caret line="61" column="16" selection-start-line="61" selection-start-column="10" selection-end-line="61" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/caselist.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/comm/common.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1159">
+              <caret line="68" column="31" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testCase/testgetLcjDetails.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2318">
+              <caret line="128" column="36" selection-start-line="128" selection-start-column="36" selection-end-line="128" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testCase/testLogin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="65" column="19" selection-start-line="65" selection-start-column="15" selection-end-line="65" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/oop1.py" />
+        <option value="$PROJECT_DIR$/oop2.py" />
+        <option value="$PROJECT_DIR$/Mixin.py" />
+        <option value="$PROJECT_DIR$/4property.py" />
+        <option value="$PROJECT_DIR$/5类和对象的三种方法.py" />
+        <option value="$PROJECT_DIR$/抽象类的实现.py" />
+        <option value="$PROJECT_DIR$/7异常处理.py" />
+        <option value="$PROJECT_DIR$/8常用模块.py" />
+        <option value="$PROJECT_DIR$/9函数式编程.py" />
+        <option value="$PROJECT_DIR$/调试/01.py" />
+        <option value="$PROJECT_DIR$/test01.txt" />
+        <option value="$PROJECT_DIR$/10.文件.py" />
+        <option value="$PROJECT_DIR$/Log/01.py" />
+        <option value="$PROJECT_DIR$/多线程/01.py" />
+        <option value="$PROJECT_DIR$/11xls.py" />
+        <option value="$PROJECT_DIR$/12email.py" />
+        <option value="$PROJECT_DIR$/13xml.py" />
+        <option value="$PROJECT_DIR$/readConfig.py" />
+        <option value="$PROJECT_DIR$/common/configHttp.py" />
+        <option value="$PROJECT_DIR$/common/common.py" />
+        <option value="$PROJECT_DIR$/comm/configHttp.py" />
+        <option value="$PROJECT_DIR$/14http.py" />
+        <option value="$PROJECT_DIR$/testCase/user/testLogin.py" />
+        <option value="$PROJECT_DIR$/comm/Log.py" />
+        <option value="$PROJECT_DIR$/testFile/emailStyle.txt" />
+        <option value="$PROJECT_DIR$/comm/configEmail.py" />
+        <option value="$PROJECT_DIR$/testCase/testLogin.py" />
+        <option value="$PROJECT_DIR$/testFile/interfaceURL.xml" />
+        <option value="$PROJECT_DIR$/testCase/testgetLcjDetails.py" />
+        <option value="$PROJECT_DIR$/comm/businessCommon.py" />
+        <option value="$PROJECT_DIR$/caselist.txt" />
+        <option value="$PROJECT_DIR$/runAll.py" />
+        <option value="$PROJECT_DIR$/config.ini" />
+        <option value="$PROJECT_DIR$/comm/common.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="110" />
+    <option name="y" value="85" />
+    <option name="width" value="1680" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python-oop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interface_debug" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-oop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interface_debug" type="462c0819:PsiDirectoryNode" />
+              <item name="comm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-oop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interface_debug" type="462c0819:PsiDirectoryNode" />
+              <item name="testCase" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../[授客]基于python+Testlink+Jenkins实现的接口自动化测试框架V3.0 20170208" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\githome\interface_debug\testCase" />
+      <recent name="D:\githome\interface_debug\testCase\user" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\githome\interface_debug\testCase" />
+      <recent name="D:\githome\interface_debug\testFile" />
+      <recent name="D:\githome\interface_debug\comm" />
+      <recent name="D:\githome\python-oop\testCase\user" />
+      <recent name="D:\githome\python-oop" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in testLogin.py">
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-oop" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration name="businessCommon" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-oop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/comm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/comm/businessCommon.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="common" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-oop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/comm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/comm/common.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="runAll" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-oop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runAll.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in testLogin.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="python-oop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testCase/testLogin.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in testgetLcjDetails.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="python-oop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testCase/testgetLcjDetails.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.runAll" />
+      <item itemvalue="Python.businessCommon" />
+      <item itemvalue="Python.common" />
+      <item itemvalue="Python tests.Unittests in testLogin.py" />
+      <item itemvalue="Python tests.Unittests in testgetLcjDetails.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in testLogin.py" />
+        <item itemvalue="Python.runAll" />
+        <item itemvalue="Python.common" />
+        <item itemvalue="Python tests.Unittests in testgetLcjDetails.py" />
+        <item itemvalue="Python.businessCommon" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a810384-6e61-40d9-a647-aff37ad76a68" name="默认的" comment="" />
+      <created>1541555572470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541555572470</updated>
+      <workItem from="1543980787232" duration="26848000" />
+      <workItem from="1544095092436" duration="2849000" />
+      <workItem from="1544162850529" duration="1379000" />
+      <workItem from="1544749831543" duration="3036000" />
+      <workItem from="1545101442870" duration="2421000" />
+      <workItem from="1545356616520" duration="598000" />
+      <workItem from="1545369171746" duration="599000" />
+      <workItem from="1546826085454" duration="598000" />
+      <workItem from="1547116141740" duration="589000" />
+      <workItem from="1549934625833" duration="6548000" />
+      <workItem from="1552629471170" duration="3327000" />
+      <workItem from="1552905353424" duration="594000" />
+      <workItem from="1552958782258" duration="461000" />
+      <workItem from="1552959777986" duration="595000" />
+      <workItem from="1552963652190" duration="482000" />
+      <workItem from="1552964311520" duration="73000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_testLogin_py - 2018.12.06 at 10h 37m 42s.xml">
+      <configuration name="Unittests in testLogin.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testLogin_py - 2018.12.06 at 10h 39m 00s.xml">
+      <configuration name="Unittests in testLogin.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testLogin_py - 2018.12.06 at 10h 40m 00s.xml">
+      <configuration name="Unittests in testLogin.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testgetLcjDetails_py - 2018.12.06 at 14h 00m 27s.xml">
+      <configuration name="Unittests in testgetLcjDetails.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testgetLcjDetails_py - 2018.12.06 at 14h 01m 28s.xml">
+      <configuration name="Unittests in testgetLcjDetails.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testgetLcjDetails_py - 2018.12.06 at 14h 06m 40s.xml">
+      <configuration name="Unittests in testgetLcjDetails.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testgetLcjDetails_py - 2018.12.06 at 14h 09m 20s.xml">
+      <configuration name="Unittests in testgetLcjDetails.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testgetLcjDetails_py - 2018.12.06 at 14h 11m 04s.xml">
+      <configuration name="Unittests in testgetLcjDetails.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testgetLcjDetails_py - 2018.12.06 at 14h 35m 17s.xml">
+      <configuration name="Unittests in testgetLcjDetails.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testLogin_py - 2019.02.12 at 14h 54m 48s.xml">
+      <configuration name="Unittests in testLogin.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="50997000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="56" y="43" width="1344" height="824" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.121306375" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="DB Browser" order="2" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36651054" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.40046838" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="版本控制" order="7" />
+      <window_info anchor="bottom" id="调试" order="8" weight="0.54981995" />
+      <window_info anchor="bottom" id="DB Execution Console" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="运行" order="13" weight="0.52340937" />
+      <window_info anchor="bottom" id="找到" order="14" weight="0.32943925" />
+      <window_info anchor="bottom" id="Favorites" order="15" />
+      <window_info anchor="bottom" id="Docker" order="16" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="17" />
+      <window_info anchor="bottom" id="Version Control" order="18" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15760198" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="DB Browser" order="2" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.32945284" />
+      <window_info active="true" anchor="bottom" id="Debug" order="6" visible="true" weight="0.3993015" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="版本控制" order="10" />
+      <window_info anchor="bottom" id="调试" order="11" weight="0.54981995" />
+      <window_info anchor="bottom" id="DB Execution Console" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="14" />
+      <window_info anchor="bottom" id="Terminal" order="15" />
+      <window_info anchor="bottom" id="运行" order="16" weight="0.52340937" />
+      <window_info anchor="bottom" id="找到" order="17" weight="0.32943925" />
+      <window_info anchor="bottom" id="Favorites" order="18" />
+      <window_info anchor="right" id="SciView" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Commander" order="2" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint suspend="NONE" type="python-exception">
+          <properties exception="BaseException" />
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/result/20181205143521/output.log" />
+    <entry file="file://$PROJECT_DIR$/result/20181205150333/output.log" />
+    <entry file="file://$PROJECT_DIR$/comm/configHttp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/20181205150333/report.html" />
+    <entry file="file://$PROJECT_DIR$/result/20181205144322/report.html" />
+    <entry file="file://$PROJECT_DIR$/result/20181206091532/report.html" />
+    <entry file="file://$PROJECT_DIR$/result/20181206091532/output.log" />
+    <entry file="file://$PROJECT_DIR$/result/20181206091821/report.html" />
+    <entry file="file://$PROJECT_DIR$/result/20181205163310/output.log" />
+    <entry file="file://$PROJECT_DIR$/result/20181206091821/output.log" />
+    <entry file="file://$PROJECT_DIR$/result/20181206093238/report.html" />
+    <entry file="file://$PROJECT_DIR$/result/20181206093238/output.log" />
+    <entry file="file://$PROJECT_DIR$/result/20181206103435/output.log" />
+    <entry file="file://$PROJECT_DIR$/result/20181206104021/output.log" />
+    <entry file="file://$PROJECT_DIR$/result/20181206104021/report.html" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/_jb_unittest_runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="29" column="34" lean-forward="true" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/teamcity/unittestpy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="306" selection-start-line="306" selection-end-line="306" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python35/Lib/unittest/runner.py" />
+    <entry file="file://D:/Python35/Lib/site-packages/paramunittest.py" />
+    <entry file="file://D:/Python35/Lib/codecs.py" />
+    <entry file="file://$PROJECT_DIR$/result/20181206143617/report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/20181206143617/output.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/20181206143833/output.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/20181206143907/report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2016">
+          <caret line="112" column="28" selection-start-line="112" selection-start-column="28" selection-end-line="112" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testFile/interfaceURL.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testFile/emailStyle.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/20181217154555/output.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/20181217154555/report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/20181214093550/output.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/20181214093550/report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testFile/img/logo.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comm/configEmail.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/20181206143907/output.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="62" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/20190212093208/output.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/20190212093208/report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#2;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#7673#7677#0" expanded="true" />
+            <element signature="e#7739#7743#0" expanded="true" />
+            <element signature="e#8450#8454#0" expanded="true" />
+            <element signature="e#8516#8520#0" expanded="true" />
+            <element signature="e#9846#9850#0" expanded="true" />
+            <element signature="e#9912#9916#0" expanded="true" />
+            <element signature="e#11512#11516#0" expanded="true" />
+            <element signature="e#11578#11582#0" expanded="true" />
+            <element signature="e#12289#12293#0" expanded="true" />
+            <element signature="e#12355#12359#0" expanded="true" />
+            <element signature="e#13685#13689#0" expanded="true" />
+            <element signature="e#13751#13755#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#3;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#5;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#17262#17266#0" expanded="true" />
+            <element signature="e#17328#17332#0" expanded="true" />
+            <element signature="e#18039#18043#0" expanded="true" />
+            <element signature="e#18105#18109#0" expanded="true" />
+            <element signature="e#19435#19439#0" expanded="true" />
+            <element signature="e#19501#19505#0" expanded="true" />
+            <element signature="e#21101#21105#0" expanded="true" />
+            <element signature="e#21167#21171#0" expanded="true" />
+            <element signature="e#21878#21882#0" expanded="true" />
+            <element signature="e#21944#21948#0" expanded="true" />
+            <element signature="e#23274#23278#0" expanded="true" />
+            <element signature="e#23340#23344#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#6;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#8;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#26851#26855#0" expanded="true" />
+            <element signature="e#26917#26921#0" expanded="true" />
+            <element signature="e#27628#27632#0" expanded="true" />
+            <element signature="e#27694#27698#0" expanded="true" />
+            <element signature="e#29024#29028#0" expanded="true" />
+            <element signature="e#29090#29094#0" expanded="true" />
+            <element signature="e#30690#30694#0" expanded="true" />
+            <element signature="e#30756#30760#0" expanded="true" />
+            <element signature="e#31467#31471#0" expanded="true" />
+            <element signature="e#31533#31537#0" expanded="true" />
+            <element signature="e#32863#32867#0" expanded="true" />
+            <element signature="e#32929#32933#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#9;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#11;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#36440#36444#0" expanded="true" />
+            <element signature="e#36506#36510#0" expanded="true" />
+            <element signature="e#37217#37221#0" expanded="true" />
+            <element signature="e#37283#37287#0" expanded="true" />
+            <element signature="e#38613#38617#0" expanded="true" />
+            <element signature="e#38679#38683#0" expanded="true" />
+            <element signature="e#40279#40283#0" expanded="true" />
+            <element signature="e#40345#40349#0" expanded="true" />
+            <element signature="e#41056#41060#0" expanded="true" />
+            <element signature="e#41122#41126#0" expanded="true" />
+            <element signature="e#42452#42456#0" expanded="true" />
+            <element signature="e#42518#42522#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#12;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#14;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#46029#46033#0" expanded="true" />
+            <element signature="e#46095#46099#0" expanded="true" />
+            <element signature="e#46806#46810#0" expanded="true" />
+            <element signature="e#46872#46876#0" expanded="true" />
+            <element signature="e#48202#48206#0" expanded="true" />
+            <element signature="e#48268#48272#0" expanded="true" />
+            <element signature="e#49868#49872#0" expanded="true" />
+            <element signature="e#49934#49938#0" expanded="true" />
+            <element signature="e#50645#50649#0" expanded="true" />
+            <element signature="e#50711#50715#0" expanded="true" />
+            <element signature="e#52041#52045#0" expanded="true" />
+            <element signature="e#52107#52111#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#15;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#17;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#55618#55622#0" expanded="true" />
+            <element signature="e#55684#55688#0" expanded="true" />
+            <element signature="e#56395#56399#0" expanded="true" />
+            <element signature="e#56461#56465#0" expanded="true" />
+            <element signature="e#57791#57795#0" expanded="true" />
+            <element signature="e#57857#57861#0" expanded="true" />
+            <element signature="e#59457#59461#0" expanded="true" />
+            <element signature="e#59523#59527#0" expanded="true" />
+            <element signature="e#60234#60238#0" expanded="true" />
+            <element signature="e#60300#60304#0" expanded="true" />
+            <element signature="e#61630#61634#0" expanded="true" />
+            <element signature="e#61696#61700#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#18;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#20;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#65207#65211#0" expanded="true" />
+            <element signature="e#65273#65277#0" expanded="true" />
+            <element signature="e#65984#65988#0" expanded="true" />
+            <element signature="e#66050#66054#0" expanded="true" />
+            <element signature="e#67380#67384#0" expanded="true" />
+            <element signature="e#67446#67450#0" expanded="true" />
+            <element signature="e#69046#69050#0" expanded="true" />
+            <element signature="e#69112#69116#0" expanded="true" />
+            <element signature="e#69823#69827#0" expanded="true" />
+            <element signature="e#69889#69893#0" expanded="true" />
+            <element signature="e#71219#71223#0" expanded="true" />
+            <element signature="e#71285#71289#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#21;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#23;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#74796#74800#0" expanded="true" />
+            <element signature="e#74862#74866#0" expanded="true" />
+            <element signature="e#75573#75577#0" expanded="true" />
+            <element signature="e#75639#75643#0" expanded="true" />
+            <element signature="e#76969#76973#0" expanded="true" />
+            <element signature="e#77035#77039#0" expanded="true" />
+            <element signature="e#78635#78639#0" expanded="true" />
+            <element signature="e#78701#78705#0" expanded="true" />
+            <element signature="e#79412#79416#0" expanded="true" />
+            <element signature="e#79478#79482#0" expanded="true" />
+            <element signature="e#80808#80812#0" expanded="true" />
+            <element signature="e#80874#80878#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#24;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#26;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#84385#84389#0" expanded="true" />
+            <element signature="e#84451#84455#0" expanded="true" />
+            <element signature="e#85162#85166#0" expanded="true" />
+            <element signature="e#85228#85232#0" expanded="true" />
+            <element signature="e#86558#86562#0" expanded="true" />
+            <element signature="e#86624#86628#0" expanded="true" />
+            <element signature="e#88224#88228#0" expanded="true" />
+            <element signature="e#88290#88294#0" expanded="true" />
+            <element signature="e#89001#89005#0" expanded="true" />
+            <element signature="e#89067#89071#0" expanded="true" />
+            <element signature="e#90397#90401#0" expanded="true" />
+            <element signature="e#90463#90467#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#27;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#29;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#93996#94000#0" expanded="true" />
+            <element signature="e#94062#94066#0" expanded="true" />
+            <element signature="e#94773#94777#0" expanded="true" />
+            <element signature="e#94839#94843#0" expanded="true" />
+            <element signature="e#96407#96411#0" expanded="true" />
+            <element signature="e#96473#96477#0" expanded="true" />
+            <element signature="e#98073#98077#0" expanded="true" />
+            <element signature="e#98139#98143#0" expanded="true" />
+            <element signature="e#98850#98854#0" expanded="true" />
+            <element signature="e#98916#98920#0" expanded="true" />
+            <element signature="e#100484#100488#0" expanded="true" />
+            <element signature="e#100550#100554#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#31;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#103011#103015#0" expanded="true" />
+            <element signature="e#103077#103081#0" expanded="true" />
+            <element signature="e#103788#103792#0" expanded="true" />
+            <element signature="e#103854#103858#0" expanded="true" />
+            <element signature="e#105422#105426#0" expanded="true" />
+            <element signature="e#105488#105492#0" expanded="true" />
+            <element signature="e#107088#107092#0" expanded="true" />
+            <element signature="e#107154#107158#0" expanded="true" />
+            <element signature="e#107865#107869#0" expanded="true" />
+            <element signature="e#107931#107935#0" expanded="true" />
+            <element signature="e#109499#109503#0" expanded="true" />
+            <element signature="e#109565#109569#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#33;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#112026#112030#0" expanded="true" />
+            <element signature="e#112092#112096#0" expanded="true" />
+            <element signature="e#112803#112807#0" expanded="true" />
+            <element signature="e#112869#112873#0" expanded="true" />
+            <element signature="e#114437#114441#0" expanded="true" />
+            <element signature="e#114503#114507#0" expanded="true" />
+            <element signature="e#116103#116107#0" expanded="true" />
+            <element signature="e#116169#116173#0" expanded="true" />
+            <element signature="e#116880#116884#0" expanded="true" />
+            <element signature="e#116946#116950#0" expanded="true" />
+            <element signature="e#118514#118518#0" expanded="true" />
+            <element signature="e#118580#118584#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#35;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#121041#121045#0" expanded="true" />
+            <element signature="e#121107#121111#0" expanded="true" />
+            <element signature="e#121818#121822#0" expanded="true" />
+            <element signature="e#121884#121888#0" expanded="true" />
+            <element signature="e#123452#123456#0" expanded="true" />
+            <element signature="e#123518#123522#0" expanded="true" />
+            <element signature="e#125118#125122#0" expanded="true" />
+            <element signature="e#125184#125188#0" expanded="true" />
+            <element signature="e#125895#125899#0" expanded="true" />
+            <element signature="e#125961#125965#0" expanded="true" />
+            <element signature="e#127529#127533#0" expanded="true" />
+            <element signature="e#127595#127599#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#37;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#130056#130060#0" expanded="true" />
+            <element signature="e#130122#130126#0" expanded="true" />
+            <element signature="e#130833#130837#0" expanded="true" />
+            <element signature="e#130899#130903#0" expanded="true" />
+            <element signature="e#132467#132471#0" expanded="true" />
+            <element signature="e#132533#132537#0" expanded="true" />
+            <element signature="e#134133#134137#0" expanded="true" />
+            <element signature="e#134199#134203#0" expanded="true" />
+            <element signature="e#134910#134914#0" expanded="true" />
+            <element signature="e#134976#134980#0" expanded="true" />
+            <element signature="e#136544#136548#0" expanded="true" />
+            <element signature="e#136610#136614#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#39;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#139071#139075#0" expanded="true" />
+            <element signature="e#139137#139141#0" expanded="true" />
+            <element signature="e#139848#139852#0" expanded="true" />
+            <element signature="e#139914#139918#0" expanded="true" />
+            <element signature="e#141482#141486#0" expanded="true" />
+            <element signature="e#141548#141552#0" expanded="true" />
+            <element signature="e#143148#143152#0" expanded="true" />
+            <element signature="e#143214#143218#0" expanded="true" />
+            <element signature="e#143925#143929#0" expanded="true" />
+            <element signature="e#143991#143995#0" expanded="true" />
+            <element signature="e#145559#145563#0" expanded="true" />
+            <element signature="e#145625#145629#0" expanded="true" />
+            <element signature="e#145879#145885#1" expanded="true" />
+            <element signature="e#145924#145930#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readConfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/20190212093539/report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/20190212093539/output.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/Python35/Lib/unittest/loader.py" />
+    <entry file="file://D:/Python35/Lib/unittest/main.py" />
+    <entry file="file://D:/Python35/Lib/unittest/case.py" />
+    <entry file="file://D:/Python35/Lib/unittest/suite.py" />
+    <entry file="file://$PROJECT_DIR$/../../python+selenium/UIauto-test/case/selenium+unittest.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="54" column="40" selection-start-line="54" selection-start-column="40" selection-end-line="54" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runAll.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="90" column="18" selection-start-line="90" selection-start-column="18" selection-end-line="90" selection-end-column="18" />
+          <folding>
+            <element signature="e#1#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comm/businessCommon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1121">
+          <caret line="61" column="16" selection-start-line="61" selection-start-column="10" selection-end-line="61" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/caselist.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comm/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1159">
+          <caret line="68" column="31" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/testgetLcjDetails.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2318">
+          <caret line="128" column="36" selection-start-line="128" selection-start-column="36" selection-end-line="128" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/testLogin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="65" column="19" selection-start-line="65" selection-start-column="15" selection-end-line="65" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

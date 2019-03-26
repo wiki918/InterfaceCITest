@@ -1,0 +1,2 @@
+2018-12-17 15:44:53,977 - root - ERROR - discover() missing 1 required positional argument: 'case_names_weights'
+2018-12-17 15:44:53,977 - root - INFO - *********TEST END*********

@@ -1,0 +1,9 @@
+2018-12-06 14:38:33,808 - root - INFO - ********TEST START********
+2018-12-06 14:38:34,660 - root - INFO - getLcjDetails_enableTab - Code:0 - msg:正常处理
+2018-12-06 14:38:35,187 - root - INFO - getLcjDetails_usedTab - Code:0 - msg:正常处理
+2018-12-06 14:38:35,672 - root - INFO - getLcjDetails_expiredTab - Code:0 - msg:正常处理
+2018-12-06 14:38:36,175 - root - INFO - getLcjDetails_pageNull - Code:9999 - msg:queryLcjListByStatus.arg0.pageIndex:最小不能小于1;
+2018-12-06 14:38:36,697 - root - INFO - getLcjDetails_sizeNull - Code:9999 - msg:queryLcjListByStatus.arg0.pageSize:最小不能小于1;
+2018-12-06 14:38:37,190 - root - INFO - getLcjDetails_authNull - Code:1004 - msg:用户未登录
+2018-12-06 14:38:37,192 - root - INFO - *********TEST END*********
+2018-12-06 14:38:44,140 - root - INFO - The test report has send to developer by email.

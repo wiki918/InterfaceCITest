@@ -1,0 +1,12 @@
+2019-02-12 09:35:39,643 - root - INFO - ********TEST START********
+2019-02-12 09:35:40,922 - root - INFO - login - Code:9999 - msg:账户不存在或者账户输入有误
+2019-02-12 09:35:41,276 - root - INFO - login_PasswordError - Code:9999 - msg:账户不存在或者账户输入有误
+2019-02-12 09:35:41,625 - root - INFO - login_AccountError - Code:9999 - msg:账户不存在或者账户输入有误
+2019-02-12 09:35:41,973 - root - INFO - login_AccountNull - Code:400 - msg:请输入手机号/邮箱
+2019-02-12 09:35:42,318 - root - INFO - login_PasswordNull - Code:400 - msg:请输入登录密码
+2019-02-12 09:35:42,667 - root - INFO -  - Code:400 - msg:请输入手机号/邮箱
+2019-02-12 09:35:43,022 - root - INFO -  - Code:400 - msg:请输入手机号/邮箱
+2019-02-12 09:35:43,369 - root - INFO -  - Code:400 - msg:请输入手机号/邮箱
+2019-02-12 09:35:43,715 - root - INFO -  - Code:400 - msg:请输入手机号/邮箱
+2019-02-12 09:35:45,809 - root - INFO - *********TEST END*********
+2019-02-12 09:35:46,512 - root - INFO - The test report has send to developer by email.

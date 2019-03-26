@@ -1,0 +1,8 @@
+2019-02-12 14:54:14,097 - root - INFO - login - Code:9999 - msg:账户不存在或者账户输入有误
+2019-02-12 14:54:30,521 - root - INFO - login_PasswordError - Code:9999 - msg:账户不存在或者账户输入有误
+2019-02-12 14:54:33,412 - root - INFO - login_AccountError - Code:9999 - msg:账户不存在或者账户输入有误
+2019-02-12 14:54:35,131 - root - INFO - login_AccountNull - Code:400 - msg:请输入手机号/邮箱
+2019-02-12 14:54:36,857 - root - INFO - login_PasswordNull - Code:400 - msg:请输入登录密码
+2019-02-12 14:54:38,691 - root - INFO -  - Code:400 - msg:请输入手机号/邮箱
+2019-02-12 14:54:40,386 - root - INFO -  - Code:400 - msg:请输入手机号/邮箱
+2019-02-12 14:54:42,101 - root - INFO -  - Code:400 - msg:请输入手机号/邮箱

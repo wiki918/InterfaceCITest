@@ -1,0 +1,18 @@
+2018-12-14 09:35:51,267 - root - INFO - ********TEST START********
+2018-12-14 09:35:52,670 - root - INFO - login - Code:0 - msg:正常处理
+2018-12-14 09:35:53,153 - root - INFO - login_PasswordError - Code:9999 - msg:请输入正确的登录密码,还可以重试4次
+2018-12-14 09:35:53,530 - root - INFO - login_AccountError - Code:9999 - msg:账户不存在或者账户输入有误
+2018-12-14 09:35:53,866 - root - INFO - login_AccountNull - Code:400 - msg:请输入手机号/邮箱
+2018-12-14 09:35:54,200 - root - INFO - login_PasswordNull - Code:400 - msg:请输入登录密码
+2018-12-14 09:35:54,717 - root - INFO -  - Code:400 - msg:请输入手机号/邮箱
+2018-12-14 09:35:55,082 - root - INFO -  - Code:400 - msg:请输入手机号/邮箱
+2018-12-14 09:35:55,445 - root - INFO -  - Code:400 - msg:请输入手机号/邮箱
+2018-12-14 09:35:55,803 - root - INFO -  - Code:400 - msg:请输入手机号/邮箱
+2018-12-14 09:35:57,209 - root - INFO - getLcjDetails_enableTab - Code:0 - msg:正常处理
+2018-12-14 09:35:58,534 - root - INFO - getLcjDetails_usedTab - Code:0 - msg:正常处理
+2018-12-14 09:36:00,192 - root - INFO - getLcjDetails_expiredTab - Code:0 - msg:正常处理
+2018-12-14 09:36:01,642 - root - INFO - getLcjDetails_pageNull - Code:9999 - msg:queryLcjListByStatus.arg0.pageIndex:最小不能小于1;
+2018-12-14 09:36:03,074 - root - INFO - getLcjDetails_sizeNull - Code:9999 - msg:queryLcjListByStatus.arg0.pageSize:最小不能小于1;
+2018-12-14 09:36:04,530 - root - INFO - getLcjDetails_authNull - Code:1004 - msg:用户未登录
+2018-12-14 09:36:04,533 - root - INFO - *********TEST END*********
+2018-12-14 09:36:13,614 - root - INFO - The test report has send to developer by email.

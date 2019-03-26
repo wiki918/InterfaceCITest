@@ -1,0 +1,6 @@
+2018-12-06 14:35:15,213 - root - INFO - getLcjDetails_enableTab - Code:0 - msg:正常处理
+2018-12-06 14:35:15,712 - root - INFO - getLcjDetails_usedTab - Code:0 - msg:正常处理
+2018-12-06 14:35:16,222 - root - INFO - getLcjDetails_expiredTab - Code:0 - msg:正常处理
+2018-12-06 14:35:16,796 - root - INFO - getLcjDetails_pageNull - Code:9999 - msg:queryLcjListByStatus.arg0.pageIndex:最小不能小于1;
+2018-12-06 14:35:17,293 - root - INFO - getLcjDetails_sizeNull - Code:9999 - msg:queryLcjListByStatus.arg0.pageSize:最小不能小于1;
+2018-12-06 14:35:17,786 - root - INFO - getLcjDetails_authNull - Code:1004 - msg:用户未登录
